@@ -7,7 +7,7 @@ To use this project, simply clone or download the repository and open the index.
 
 # bash
 # Copy code
-git clone https://github.com/yourusername/huddle-landing-page.git
+git clone https://github.com/Mariamgogaladze/Huddle-landing-page
 
 # Usage
 The landing page includes a header with a navigation menu, a hero section with a call-to-action button, and a features section with three columns. The page also includes a responsive footer with social media icons.
