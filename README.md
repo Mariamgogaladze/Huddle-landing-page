@@ -5,7 +5,7 @@ This is a landing page project for Huddle, built using HTML and CSS. The page in
 # Installation
 To use this project, simply clone or download the repository and open the index.html file in your web browser.
 
-# bash
+
 # Copy code
 git clone https://github.com/Mariamgogaladze/Huddle-landing-page
 
