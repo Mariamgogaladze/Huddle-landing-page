@@ -23,10 +23,10 @@ If you have any questions or feedback about this project, please contact the aut
 # Acknowledgments
 This project was inspired by the design and layout of the Huddle landing page on Frontend Mentor. Special thanks to Frontend Mentor for providing a great platform for learning and practicing web development.
 
-That's just an example, but you can customize it to fit your specific project and needs.
+That's just an example, but you can customize it to fit your specific project and needs.  The original design can be found at [https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0]. 
 
-# Acknowledgments
-This project was inspired by the design and layout of the Huddle landing page challenge on Frontend Mentor. Special thanks to Frontend Mentor for providing a platform to learn and practice web development and for creating this challenge. The original design can be found at [https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0]. 
+
+
 
 
 
