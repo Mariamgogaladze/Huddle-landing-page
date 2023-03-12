@@ -18,7 +18,7 @@ Contributions to this project are welcome! Please follow the contributing guidel
 
 
 # Contact
-If you have any questions or feedback about this project, please contact the author at yourname@email.com.
+If you have any questions or feedback about this project, please contact the author at gogaladzemariam8@gmail.com.
 
 # Acknowledgments
 This project was inspired by the design and layout of the Huddle landing page on Frontend Mentor. Special thanks to Frontend Mentor for providing a great platform for learning and practicing web development.
