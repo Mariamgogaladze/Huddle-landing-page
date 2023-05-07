@@ -9,7 +9,7 @@ This is a landing page project for Huddle, built using HTML and CSS. The page in
 
 ## Demo
 
-
+You can try out the live demo of the Testimonials grid section here : https://mariamgogaladze.github.io/Huddle-landing-page/
 
 
 
